@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Lucky%20Dhawan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:luckydhawan@gmail.com">
+  <a href="mailto:luckydvn32@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
@@ -392,7 +392,7 @@ Lucky Dhawan — Current Engineering Focus:
 ## ◈ Connect With Me
 
 <p align="center">
-  <a href="mailto:luckydhawan@gmail.com">
+  <a href="mailto:luckydvn32@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
