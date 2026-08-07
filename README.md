@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-6A0DAD?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/lucky-dhawan">
+  <a href="https://www.linkedin.com/in/luckywithluck32/">
     <img src="https://img.shields.io/badge/LinkedIn-Lucky%20Dhawan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
